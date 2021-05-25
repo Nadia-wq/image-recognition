@@ -1,0 +1,14 @@
+body {
+    background: rgb(0, 0, 0);
+    background: linear-gradient(90deg, rgba(0, 0, 0, 1) 0%, rgba(1, 32, 80, 1) 18%, rgba(21, 1, 125, 1) 27%, rgba(21, 5, 175, 1) 39%, rgba(95, 12, 222, 1) 47%, rgba(136, 12, 195, 1) 57%, rgba(152, 4, 222, 1) 69%, rgba(181, 4, 222, 1) 80%, rgba(222, 4, 219, 1) 93%);
+color:aqua;
+}
+.heading{
+    font-family: 'Pattaya', sans-serif; 
+    font-size:25px;
+}
+#camera{
+    border: 2px dashed cyan;
+    width:350px;
+    height:300px;
+}
